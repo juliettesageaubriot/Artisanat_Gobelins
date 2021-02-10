@@ -2,8 +2,9 @@ import React from "react";
 
 const IndexPage = () => (
 
-    <main>
-    </main>
+    <>
+        <h1>Coucou la street</h1>
+    </>
 )
 
 export default IndexPage
